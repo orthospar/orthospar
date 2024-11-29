@@ -1,9 +1,11 @@
-Hi! I’m Dr Jason Bennett, and I am currently at the University of Western Australia.
+Hi! I’m Dr Jason Bennett, and I am currently the Senior Spectral Mineralogist at Portable Spectral Services in Perth, Western Australia.
 
 Research Areas:
 - 💎 mineralogy
-- 🧪 geochemistry
+- 〰 spectrometry
+- ⚙️ automated mineralogy
 - 🔬 petrology
+- 🧪 geochemistry
 - ⚒ ore deposit geology
 
 I am currently working on:
@@ -15,16 +17,14 @@ I am currently working on:
 - Translithospheric transport of S and chalcophile elements
   -  Experimental petrology on S solubility
 
-- Fluid Inclusion Microthermometry
-  - Physicochemical properties of ore forming fluids
-
 I can be contacted at:
 
-💼 jason.bennett@uwa.edu.au
+💼 jbennett@portaspecs.com
 
 📧 drjason.bennett@gmail.com
 
-📫 Centre for Exploration Targeting, School of Earth Sciences, M006 35 Stirling Highway, Crawley, WA, 6009 Australia
+📫 Portable Spectral Services, Level 2, 9 Colin Street, West Perth, WA 6005
+
 
 <!---
 orthospar/orthospar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,6 +38,5 @@ You can click the Preview link to take a look at your changes.
 🜩 Sn Ore
 🜠 Cu Ore
 🜜 Fe ore
-
 🜶 Alkali
 --->
